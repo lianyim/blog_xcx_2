@@ -1,0 +1,37 @@
+.content {
+  padding: 20rpx;
+}
+.update-view {
+  padding-bottom: 30rpx;
+}
+.update-view .time {
+  color: #818181;
+  font-size: 28rpx;
+  padding-left: 30rpx;
+  border-left: 4rpx solid #818181;
+  margin-bottom: 20rpx;
+}
+.update-view .content-view {
+  padding: 20rpx;
+  box-shadow: 0 0 10rpx 6rpx #e5e5e5;
+  width: 84%;
+  margin: 0 auto;
+}
+.update-view .content-view .title {
+  float: left;
+  font-weight: bold;
+  font-size: 30rpx;
+}
+.update-view .content-view .version {
+  float: right;
+  font-size: 30rpx;
+  margin-right: 30rpx;
+  margin-bottom: 20rpx;
+  color: #787878;
+}
+.update-view .content-view .log-content {
+  font-size: 28rpx;
+  letter-spacing: 2rpx;
+  clear: both;
+}
+

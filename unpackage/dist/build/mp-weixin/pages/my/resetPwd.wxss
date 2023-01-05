@@ -1,0 +1,1 @@
+.content{padding-top:20px;padding-left:10px;padding-right:10px}.info-view{height:36px}.info-view .title{float:left;width:30%}.info-view .info-input{float:left;text-align:right;width:70%}.add-btn{width:160rpx;height:60rpx;background-color:#64adff;color:#fff;line-height:60rpx;font-size:30rpx;margin-top:40px}

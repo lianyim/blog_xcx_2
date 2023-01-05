@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "更新记录",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 20,
+  "usingComponents": {}
+}

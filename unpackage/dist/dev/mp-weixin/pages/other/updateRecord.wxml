@@ -1,0 +1,1 @@
+<view class="content"><block wx:for="{{dataList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="update-view"><view class="time">{{item.createDate}}</view><view class="content-view"><view class="title">{{item.title}}</view><view class="version">{{item.version}}</view><view class="log-content">{{item.content}}</view></view></view></block></view>

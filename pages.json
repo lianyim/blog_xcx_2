@@ -1,0 +1,214 @@
+{
+	"pages": [
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/topic/index",
+			"style": {
+				"navigationBarTitleText": "专题",
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/circle/index",
+			"style": {
+				"navigationBarTitleText": "广场",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/my/index",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/topic/detail",
+			"style": {
+				"navigationBarTitleText": "专题详情",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/my/editInfo",
+			"style": {
+				"navigationBarTitleText": "编辑信息"
+			}
+		},
+		{
+			"path": "pages/my/set",
+			"style": {
+				"navigationBarTitleText": "设置"
+			}
+		},
+		{
+			"path": "pages/other/updateRecord",
+			"style": {
+				"navigationBarTitleText": "更新记录",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/other/author",
+			"style": {
+				"navigationBarTitleText": "联系作者"
+			}
+		},
+		{
+			"path": "pages/other/about",
+			"style": {
+				"navigationBarTitleText": "关于"
+			}
+		},
+		{
+			"path": "pages/integral/index",
+			"style": {
+				"navigationBarTitleText": "积分中心",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/other/message",
+			"style": {
+				"navigationBarTitleText": "问题反馈",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/circle/circleDetail",
+			"style": {
+				"navigationBarTitleText": "圈子详情",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/trends/detail",
+			"style": {
+				"navigationBarTitleText": "动态详情",
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/circle/circleAll",
+			"style": {
+				"navigationBarTitleText": "圈子列表",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/home/book",
+			"style": {
+				"navigationBarTitleText": "推荐书籍",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/my/myCollect",
+			"style": {
+				"navigationBarTitleText": "我的收藏",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/my/myTrends",
+			"style": {
+				"navigationBarTitleText": "我的动态",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/my/user",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/my/myFollow",
+			"style": {
+				"navigationBarTitleText": "我的关注",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/my/myCircle",
+			"style": {
+				"navigationBarTitleText": "我的圈子",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/trends/add",
+			"style": {
+				"navigationBarTitleText": "发表讨论"
+			}
+		},
+		{
+			"path": "pages/my/resetPwd",
+			"style": {
+				"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+			"path": "pages/article/detail",
+			"style": {
+				"navigationBarTitleText": "详情"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "blog",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+	  "backgroundColor": "#ffffff",
+	  "color": "#000000",
+	  "selectedColor": "#ffaa00",
+	  "list": [
+		{
+			"pagePath": "pages/home/index",
+			"iconPath":"static/imgs/tabber/home.png",
+			"text": "首页",
+			"selectedIconPath": "static/imgs/tabber/home_selected.png"
+		},
+		{
+			"pagePath": "pages/topic/index",
+			"iconPath":"static/imgs/tabber/topic.png",
+			"text": "专题",
+			"selectedIconPath": "static/imgs/tabber/topic_selected.png"
+		},
+		{
+			"pagePath": "pages/circle/index",
+			"iconPath":"static/imgs/tabber/message.png",
+			"text": "广场",
+			"selectedIconPath": "static/imgs/tabber/message_selected.png"
+		},
+		{
+			"pagePath": "pages/my/index",
+			"iconPath":"static/imgs/tabber/my.png",
+			"text": "个人中心",
+			"selectedIconPath": "static/imgs/tabber/my_selected.png"
+		}
+	  ]
+	},
+	"uniIdRouter": {}
+}

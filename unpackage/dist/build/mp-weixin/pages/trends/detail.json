@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "动态详情",
+  "onReachBottomDistance": 20,
+  "usingComponents": {
+    "comment-comp": "/components/comment"
+  }
+}

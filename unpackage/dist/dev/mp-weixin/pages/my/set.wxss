@@ -1,0 +1,14 @@
+.content {
+  padding: 20rpx;
+}
+.update-view {
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+}
+.update-view .version {
+  float: right;
+  color: darkgoldenrod;
+  font-size: 36rpx;
+  margin-top: -4rpx;
+}
+
