@@ -82,4 +82,6 @@
 <h3 data-tool="mdnice编辑器" style="margin-top: 30px; margin-bottom: 15px; padding: 0px; font-weight: bold; color: black; font-size: 20px;"><span class="prefix" style="display: none;"></span><span class="content">3.2、源码展示</span><span class="suffix" style="display: none;"></span></h3>
 </section>
 
+项目详细展示：<a href="https://blog.csdn.net/Always206/article/details/128456530"></a>
+
 有需要的小伙伴，可以关注公众号 “连帆起航” 获取源码
